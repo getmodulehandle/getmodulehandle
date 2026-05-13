@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>@antiaimbob</h3>
-  <img src="https://counter.lunoxia.net/get/@antiaimbob?theme=asoul" />
+  <h3>@getmodulehandle</h3>
+  <img src="https://counter.lunoxia.net/get/@getmodulehandle?theme=asoul" />
 </div>
 
 ---
