@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <h3>@antiaimbob</h3>
+  <img src="https://counter.lunoxia.net/get/@antiaimbob?theme=asoul" />
+</div>
 
-<!--
-**antiaimbob/antiaimbob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div>
+  <h2>About</h2>
+  <p>Hi, I'm John! I am a 17 year old based in Dallas Texas. I started coding around 2019-2020 during COVID. I mainly focus on learning how Windows works and learning system internals.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>Language Stack</h2>
+  <ul>
+    <li>C++ (KM & UM)</li>
+    <li>C#</li>
+    <li>Python</li>
+    <li>Typescript</li>
+  </ul>
+
+  <h2>Applications</h2>
+  <ul>
+    <li>Visual Studio</li>
+    <li>VS Code</li>
+    <li>IDA Professional 9.0</li>
+  </ul>
+</div>
